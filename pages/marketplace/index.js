@@ -16,7 +16,7 @@ export default function Marketplace({ courses }) {
         network={{
           data: network.data,
           target: network.target,
-          isSupported: network.isSupported,
+          isSuported: network.isSuported,
           isLoading: network.isLoading,
         }}
       />
